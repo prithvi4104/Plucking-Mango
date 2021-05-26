@@ -14,7 +14,7 @@ var slingshot;
 
 function preload()
 {
-	boyImage=loadImage("images/boy.png");
+	boyImage=loadImage("boy.png");
 
 }
 
